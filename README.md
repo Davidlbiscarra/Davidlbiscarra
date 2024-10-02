@@ -1,4 +1,3 @@
-###
 - 🔭 I’m currently working on ... currently studying
 - 🌱 I’m currently learning ... java and next year I start python
 - 😄 Pronouns: ... simply masculine
